@@ -126,21 +126,21 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Falling Sky - https://people.rit.edu/jhw5517/235/FallingSky/ (temporarily off-line)
 - Greg Saves the World - https://people.rit.edu/jpd2690/235/project3/project3.html
 - Match Rush - https://people.rit.edu/ajb8344/235/Match_Rush/
-- Corrupted Conundrum - https://people.rit.edu/tmg7946/235/project3/
-- Iron Cog - https://people.rit.edu/tc3672/235/project3/game/game.html
+- Corrupted Conundrum - https://people.rit.edu/tmg7946/235/project3/ (temporarily off-line)
+- Iron Cog - https://people.rit.edu/tc3672/235/project3/game/game.html (temporarily off-line)
 - Whack-A-Goomba - https://people.rit.edu/tab9663/235/P3new/index.html
-- Survive the Hoard - https://people.rit.edu/sam1932/235/project3/game.html
+- Survive the Hoard - https://people.rit.edu/sam1932/235/project3/game.html (temporarily off-line)
 - Bottle Knights - https://people.rit.edu/scc8371/235/project3/
-- Rocket Runner - https://people.rit.edu/rdv3615/235/project3/
-- Memento Mori - https://people.rit.edu/qms6350/235/project3/
-- Neptune - https://people.rit.edu/pd5129/235/project3/
-- Build-a-Zombie - https://people.rit.edu/omw1772/235/project3/
-- Luck of the Draw - https://people.rit.edu/lr4631/235/project3/
-- Prichi - https://people.rit.edu/fa4931/235/project3/
-- Bubble Mail - https://people.rit.edu/fgw7468/235/project3/
-- Survive the Couch - https://people.rit.edu/cjm6497/235/project3/
+- Rocket Runner - https://people.rit.edu/rdv3615/235/project3/ (temporarily off-line)
+- Memento Mori - https://people.rit.edu/qms6350/235/project3/ (temporarily off-line)
+- Neptune - https://people.rit.edu/pd5129/235/project3/ (temporarily off-line)
+- Build-a-Zombie - https://people.rit.edu/omw1772/235/project3/ (temporarily off-line)
+- Luck of the Draw - https://people.rit.edu/lr4631/235/project3/ (temporarily off-line)
+- Prichi - https://people.rit.edu/fa4931/235/project3/ (temporarily off-line)
+- Bubble Mail - https://people.rit.edu/fgw7468/235/project3/ (temporarily off-line)
+- Survive the Couch - https://people.rit.edu/cjm6497/235/project3/ (temporarily off-line)
 - Zero-Day Threat - https://people.rit.edu/cre3363/235/project3/
-- Untitled Fish Game - https://people.rit.edu/ajc3147/235/project3/
+- Untitled Fish Game - https://people.rit.edu/ajc3147/235/project3/ (temporarily off-line)
 - A Boy and His M.A.U.S. - https://people.rit.edu/aad9296/boy-and-maus/
 
 #### Recent Games - Spring 2021
