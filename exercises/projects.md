@@ -121,9 +121,9 @@ For this exercise, we'd like you to explore some sample projects from the last f
 ### Category 3: Web-based Games or Experiences (Ignore project numbers in the URLs -- it has had different numbers in the past - it will be our Project 3 and won't have the extensive connected website that you may notice in some of these )
 
 #### Unchecked but High Scoring Project 3s - Fall 2021
-- Cheese Master - https://people.rit.edu/ejf6912/235/project3/game.html
-- Rebound - https://people.rit.edu/blg9406/235/project3/game.html
-- Falling Sky - https://people.rit.edu/jhw5517/235/FallingSky/
+- Cheese Master - https://people.rit.edu/ejf6912/235/project3/game.html (temporarily off-line)
+- Rebound - https://people.rit.edu/blg9406/235/project3/game.html (temporarily off-line)
+- Falling Sky - https://people.rit.edu/jhw5517/235/FallingSky/ (temporarily off-line)
 - Greg Saves the World - https://people.rit.edu/jpd2690/235/project3/project3.html
 - Match Rush - https://people.rit.edu/ajb8344/235/Match_Rush/
 - Corrupted Conundrum - https://people.rit.edu/tmg7946/235/project3/
