@@ -138,6 +138,9 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Super Minesweeper - https://people.rit.edu/mrg1997/235/project3/index.html
 - Raging Scales - https://people.rit.edu/mi1320/235/project3/
 - Sokoban - https://people.rit.edu/feb5657/235/project3/ <-- This semester's Teaching Assistant (sec01).  Will be available on Slack!
+- Oviform Observation - https://people.rit.edu/qjd5808/235/project3/
+- RYTHM K - https://people.rit.edu/dcp9291/235/project3/
+- A Brighter Future - https://people.rit.edu/aap5744/235/project3/
 
 #### Unchecked but High Scoring Project 3s - Fall 2021
 - Cheese Master - https://people.rit.edu/ejf6912/235/project3/game.html (temporarily off-line)
