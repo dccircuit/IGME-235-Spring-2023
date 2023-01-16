@@ -120,6 +120,25 @@ For this exercise, we'd like you to explore some sample projects from the last f
 
 ### Category 3: Web-based Games or Experiences (Ignore project numbers in the URLs -- it has had different numbers in the past - it will be our Project 3 and won't have the extensive connected website that you may notice in some of these )
 
+#### Some Excellent Example Projects from Fall 2022
+- Picross - https://people.rit.edu/abg9806/235/project3/
+- Grave Clicker - https://people.rit.edu/bpe4955/235/project3/
+- Magnetics - https://people.rit.edu/ifm1110/235/git/projects/12_2_22_project3_prototype/
+- Scrabble in the Bag - https://people.rit.edu/lra6595/235/project3/ - (way beyond expectations)
+- Temple Jump - https://people.rit.edu/mwz6259/235/project3/game.html
+- Spectral Sightings - https://people.rit.edu/tjs6091/235/project3/
+- Winter's Dawn - https://people.rit.edu/wct9667/235/Project3/
+- Extreme Battleship - https://people.rit.edu/bsm1875/235/project3/
+- Ace Bullet - https://people.rit.edu/cy6877/235/project3/game.html
+- Musical Memory - https://people.rit.edu/cms8904/235/project3/game.html
+- Xen - https://people.rit.edu/~dah8728/235/project3/
+- SKELETON!!! - https://people.rit.edu/lek8258/235/project3/game.html
+- Call Me By Your Shade - https://people.rit.edu/ltm7725/235/project3/index.html
+- MailMouse - https://people.rit.edu/mdt4624/235/project3/
+- Super Minesweeper - https://people.rit.edu/mrg1997/235/project3/index.html
+- Raging Scales - https://people.rit.edu/mi1320/235/project3/
+- Sokoban - https://people.rit.edu/feb5657/235/project3/ <-- This semester's Teaching Assistant (sec01).  Will be available on Slack!
+
 #### Unchecked but High Scoring Project 3s - Fall 2021
 - Cheese Master - https://people.rit.edu/ejf6912/235/project3/game.html (temporarily off-line)
 - Rebound - https://people.rit.edu/blg9406/235/project3/game.html (temporarily off-line)
