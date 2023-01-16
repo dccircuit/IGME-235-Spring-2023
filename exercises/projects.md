@@ -6,7 +6,7 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Check out the links below and visit at least one project in each category.
 - Watch the Projects Overview Video also linked to from the first week's myCourses content area.
 
-### Category 1: One-Page Websites (mostly) - These are all portfolios, but NEW THIS SEMESTER, creating a portfolio is no longer a requirement for this project.  
+### Category 1: One-Page Websites (mostly) - These are all portfolios, but NEW THIS YEAR, creating a portfolio is no longer a requirement for this project.  
 - Additionally, you'll be expected to duplicate an existing design as your starting point for this Project.  So while these projects do contain some interesting ideas, the first Project will be somewhat different.
 
 #### Recent Portfolios - Please note: Do not share.  They are not necessarily complete yet.
