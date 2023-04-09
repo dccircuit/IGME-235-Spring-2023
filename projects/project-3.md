@@ -9,7 +9,7 @@
 
 You will use **ONE** (or both) of these technology stacks:
 - **JavaScript & PixiJS** (which wraps WebGL): 
-    -  [About this PixiJS Tutorial Series](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md) has links to the [Circle Blast!](HW-circle-blast-1.md) exercise and other demos that can get you started **OR**
+    -  [About this PixiJS Tutorial Series](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-0.md) has links to the **Circle Blast!** exercise and other demos that can get you started **OR**
 - **JavaScript & the Browser DOM** - these exercises will give you an idea of what is possible, and also represent some nice "starter" code:
     - [DOM Adventure!](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/HW-adventure.md) is a tile-based game that uses arrow keys for movement, and simple sound.
     - [DOM Chibi Matching](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/HW-chibi-matching.md) is a card matching game that uses CSS animations.
